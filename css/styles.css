@@ -22,7 +22,7 @@ img{
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1,2;
+    line-height: 1.2;
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
@@ -37,7 +37,7 @@ font-family: 'Raleway';
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1,3;
+line-height: 1.3;
 margin-right: 76px;
 display: flex;
 align-items: center;
@@ -49,14 +49,14 @@ color: #4D5AE5;
     width: 48px;
 height: 24px;
 text-decoration-line: none;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 position: relative;
 color: #2E2F42;
+margin-left: 71px;
 }
 .links__studio::after{
     content: '';
@@ -92,11 +92,10 @@ color: #2E2F42;
     width: 48px;
 height: 24px;
 text-decoration-line: none;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 position: relative;
 color: #2E2F42;
@@ -105,11 +104,10 @@ color: #2E2F42;
     width: 67px;
 height: 24px;
 text-decoration-line: none;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 position: relative;
 letter-spacing: 0.02em;
 color: #2E2F42;
@@ -135,11 +133,10 @@ height: 24px;
 left: 940px;
 top: 24px;
 text-decoration-line: none;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 
@@ -156,11 +153,10 @@ height: 24px;
 left: 1133px;
 top: 24px;
 text-decoration-line: none;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 
@@ -174,37 +170,26 @@ color: #434455;
 .section1__title{
     width: 504px;
 height: 120px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
 font-size: 56px;
-line-height: 1,1;
+line-height: 1.1;
 text-align: center;
 letter-spacing: 0.02em;
 color: #FFFFFF;
 }
 .section1{
-    width: 1440px;
-left: 0px;
-top: 72px;
 padding-top: 188px;
 padding-bottom: 188px;
-margin: 0 auto;
 background: #2E2F42;
 }
 .section1__button{
-    font-family: 'Roboto' sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
     margin-top: 48px;
-    margin-left: 167px;
     color: #FFFFFF; 
-    width: 169px;
-height: 56px;
-left: 636px;
-top: 428px;
 background: #4D5AE5;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 border-radius: 4px;
@@ -240,107 +225,95 @@ background-color: #404BBF;
 .feature1__title{
     width: 264px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 24px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .feature1__text{
     width: 264px;
 height: 72px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
 .feature2__title{
     width: 264px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 24px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .feature2__text{
     width: 264px;
 height: 72px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
 .feature3__title{
     width: 264px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .feature3__text{
     width: 264px;
 height: 72px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
 .feature4__title{
     width: 264px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .feature4__text{
     width: 264px;
 height: 72px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
 .section3__title{
-    width: 325px;
-height: 40px;
-left: 559px;
-top: 1016px;
-font-family: 'Roboto';
+align-items: center;
 font-style: normal;
 font-weight: 700;
 font-size: 36px;
-line-height: 1,1;
+line-height: 1.1;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2E2F42;
-margin-left: 558px;
-margin-right: 557px;
+margin-bottom: 72px;
+
 }
 .links{
     list-style-type: none;
@@ -364,8 +337,6 @@ margin-right: 557px;
     list-style-type: none;
     display: flex;
     gap: 24px;
-    padding-left: 156px;
-    padding-right: 156px;
     margin-bottom: 120px;
 }
 .mobile-phones71__1{
@@ -395,21 +366,20 @@ background-blend-mode: soft-light, normal;
 height: 40px;
 left: 639px;
 top: 1668px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
 font-size: 36px;
-line-height: 1,1;
+line-height: 1.1;
 color: #2E2F42;
 margin-top: 120px;
 margin-bottom: 72px;
-margin-left: 636px;
+margin-left: 485px;
+
 }
 .team{
     list-style-type: none;
     display: flex;
     gap: 24px;
-    margin-left: 120px;
 }
 .person1__photo{
     width: 264px;
@@ -421,22 +391,20 @@ background-color: #FFFFFF;
 .person1__title{
     width: 134px;
     height: 24px;
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1,5;
+    line-height: 1.5;
     text-align: center;
     color: #2E2F42;
 }
 .person1__text{
     width: 128px;
     height: 24px;
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5;
     text-align: center;
     letter-spacing: 0.02em;
     color: #434455;
@@ -450,11 +418,10 @@ mix-blend-mode: normal;
 .person2__title{
     width: 88px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,5;
+line-height: 1.5;
 text-align: center;
 letter-spacing: 0.02em;
 color: #2E2F42;
@@ -462,11 +429,10 @@ color: #2E2F42;
 .person2__text{
     width: 144px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 text-align: center;
 letter-spacing: 0.02em;
 color: #434455;
@@ -480,11 +446,10 @@ mix-blend-mode: normal;
 .person3__title{
     width: 140px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 text-align: center;
 letter-spacing: 0.02em;
 color: #2E2F42;
@@ -492,11 +457,10 @@ color: #2E2F42;
 .person3__text{
     width: 75px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 text-align: center;
 letter-spacing: 0.02em;
 color: #434455;
@@ -510,11 +474,10 @@ mix-blend-mode: normal;
 .person4__title{
     width: 127px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 text-align: center;
 letter-spacing: 0.02em;
 color: #2E2F42;
@@ -522,11 +485,10 @@ color: #2E2F42;
 .person4__text{
     width: 85px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 text-align: center;
 letter-spacing: 0.02em;
 color: #434455;
@@ -539,38 +501,38 @@ font-family: 'Raleway';
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1,7;
+line-height: 1.7;
 display: flex;
 align-items: center;
 letter-spacing: 0.03em;
 color: #4D5AE5;
+padding-top: 100px;
 }
 .footer__text{
     width: 264px;
 height: 72px;
 left: 156px;
 top: 2418px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #E7E9FC;
-
+padding-bottom: 100px;
+padding-top: 16px;
 }
 .footer__container{
-padding-left: 155px;
-padding-top: 100px;
+margin-left: auto;
+margin-right: auto;
+width: 1158px;
+padding-right: 15px;
+padding-left: 15px;
 }
 .header-web{
-    width: 1440px;
-    height: 72px;
-margin: 0 auto;
 align-items: center;
 }
 .header-container{
-    align-items: center;
     background: #FFFFFF;
     box-sizing: border-box;
     display: flex;
@@ -709,6 +671,10 @@ color: #4D5AE5;
 border: 1px solid #E7E9FC;
 border-radius: 4px;
 }
+.papka1{
+    background: #FFFFFF;
+border: 1px solid #E7E9FC;
+}
 .papka1__app{
     width: 360px;
 height: 300px;
@@ -721,22 +687,27 @@ mix-blend-mode: normal
 .papka1__title{
     width: 290px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 color: #2E2F42;
+padding-bottom: 8px;
+padding-top: 32px;
 }
 .papka1__text{
     width: 30px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 color: #434455;
+padding-bottom: 32px;
+}
+.papka2{
+    background: #FFFFFF;
+border: 1px solid #E7E9FC;
 }
 .papka2__pay{
     width: 360px;
@@ -750,21 +721,26 @@ mix-blend-mode: normal;
 .papka2__title{
     width: 172px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
 color: #2E2F42;
+padding-bottom: 8px;
+padding-top: 32px;
 }
 .papka2__text{
     width: 75px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 color: #434455;
+padding-bottom: 32px;
+}
+.papka3{
+    background: #FFFFFF;
+border: 1px solid #E7E9FC;
 }
 .papka3__notebook{
     width: 360px;
@@ -777,22 +753,27 @@ mix-blend-mode: normal;
 .papka3__title{
     width: 135px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 color: #2E2F42;
+padding-bottom: 8px;
+padding-top: 32px;
 }
 .papka3__text{
     width: 30px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 color: #434455;
+padding-bottom: 32px;
+}
+.papka4{
+    background: #FFFFFF;
+border: 1px solid #E7E9FC;
 }
 .papka4__taxi{
     width: 360px;
@@ -805,22 +786,27 @@ background-blend-mode: soft-light, normal;
 .papka4__title{
     width: 113px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 color: #2E2F42;
+padding-bottom: 8px;
+padding-top: 32px;
 }
 .papka4__text{
     width: 75px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 color: #434455;
+padding-bottom: 32px;
+}
+.papka5{
+    background: #FFFFFF;
+border: 1px solid #E7E9FC;
 }
 .papka5__screen{
     width: 360px;
@@ -834,22 +820,27 @@ mix-blend-mode: normal;
 .papka5__title{
     width: 181px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 color: #2E2F42;
+padding-bottom: 8px;
+padding-top: 32px;
 }
 .papka5__text{
     width: 51px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 color: #434455;
+padding-bottom: 32px;
+}
+.papka6{
+    background: #FFFFFF;
+border: 1px solid #E7E9FC;
 }
 .papka6__woman{
     width: 360px;
@@ -863,22 +854,27 @@ color: #434455;
 .papka6__title{
     width: 142px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 color: #2E2F42;
+padding-bottom: 8px;
+padding-top: 32px;
 }
 .papka6__text{
     width: 75px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 color: #434455;
+padding-bottom: 32px;
+}
+.papka7{
+    background: #FFFFFF;
+border: 1px solid #E7E9FC;
 }
 .papka7__stories{
     width: 360px;
@@ -891,22 +887,27 @@ color: #434455;
 .papka7__title{
     width: 249px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 color: #2E2F42;
+padding-bottom: 8px;
+padding-top: 32px;
 }
 .papka7__text{
     width: 51px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 color: #434455;
+padding-bottom: 32px;
+}
+.papka8{
+    background: #FFFFFF;
+border: 1px solid #E7E9FC;
 }
 .papka8__food{
     width: 360px;
@@ -920,22 +921,27 @@ mix-blend-mode: normal;
 .papka8__title{
     width: 124px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 color: #2E2F42;
+padding-bottom: 8px;
+padding-top: 32px;
 }
 .papka8__text{
     width: 65px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 color: #434455;
+padding-bottom: 32px;
+}
+.papka9{
+    background: #FFFFFF;
+border: 1px solid #E7E9FC;
 }
 .papka9__coffee{
     width: 360px;
@@ -949,22 +955,23 @@ mix-blend-mode: normal;
 .papka9__title{
     width: 119px;
 height: 24px;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
-line-height: 1,2;
+line-height: 1.2;
 color: #2E2F42;
+padding-bottom: 8px;
+padding-top: 32px;
 }
 .papka9__text{
     width: 65px;
 height: 24px;
 color: #2E2F42;
-font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
+padding-bottom: 32px;
 }
 body{
 font-family: 'Roboto', sans-serif;
@@ -977,7 +984,7 @@ font-family: 'Raleway';
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1,3;
+line-height: 1.3;
 display: flex;
 align-items: center;
 text-transform: uppercase;
@@ -989,6 +996,7 @@ flex-direction: column;
 align-items: center;
 margin-left: auto;
 margin-right: auto;
+background: #2E2F42;
 }
 .links__studio:hover{
    color:  #404BBF;
@@ -1009,74 +1017,88 @@ margin-right: auto;
      color:  #404BBF;
  }
 .container2{
-    padding-left: 120px;
-    padding-right: 120px;
+    margin-left: auto;
+margin-right: auto;
+width: 1158px;
+padding-right: 15px;
+padding-left: 15px;
+align-items: center;
     padding-top: 120px;
     display: flex;
     padding-bottom: 120px;
 }
 .section2{
     background: #FFFFFF;
-    margin: 0 auto;
-    width: 1440px;
     display: flex;
 }
 .section3{
     background: #FFFFFF;
-    margin: 0 auto;
-    width: 1440px;
     display: flex;
+}
+.container3{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1158px;
+    padding-right: 15px;
+    padding-left: 15px;
+    align-items: center;  
 }
 .section4{
     background: #F4F4FD;
-    margin: 0 auto;
-    width: 1440px;
     display: flex;
 }
 .container4{
     background: #F4F4FD;
     padding-bottom: 120px;
+    margin-left: auto;
+margin-right: auto;
+width: 1158px;
+padding-right: 15px;
+padding-left: 15px;
+align-items: center;
 }
 .footer{
-    width: 1440px;
-    height: 310px;
     background: #2E2F42;
-    margin: 0 auto;
 }
 .section11{
     background: #FFFFFF;
-    margin: 0 auto;
-    width: 1440px;
     display: flex;
 }
 .container11{
     display: flex;
     margin-top: 96px;
     margin-bottom: 72px;
-    padding-left: 427px;
     gap: 24px;
+    margin-left: auto;
+margin-right: auto;
+padding-right: 15px;
+padding-left: 15px;
+align-items: center;
+}
+.container12{
+    display: block;
+    margin-left: auto;
+margin-right: auto;
+padding-right: 15px;
+padding-left: 15px;
+align-items: center;
 }
 .section12{
     background: #FFFFFF;
-    margin: 0 auto;
-    width: 1440px;
     display: flex;
 }
 .picture1{
     display: flex;
     gap: 24px;
     margin-bottom: 48px;
-    margin-left: 156px;
 }
 .picture2{
     display: flex;
     gap: 24px;
     margin-bottom: 48px;
-    margin-left: 156px;
 }
 .picture3{
     display: flex;
     gap: 24px;
     margin-bottom: 48px;
-    margin-left: 156px;
 }
