@@ -366,6 +366,12 @@ margin-left: 485px;
     display: flex;
     gap: 24px;
 }
+.person{
+    margin-right: 24px;
+}
+.person:last-child{
+    margin-right: 0;
+}
 .person1__photo{
     width: 264px;
 height: 260px;
